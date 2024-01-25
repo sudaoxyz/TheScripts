@@ -31,14 +31,14 @@
         },
         {
             name: "chax燃烧脚本",
-            description: `<td class="d-block color-fg-default comment-body markdown-body js-comment-body">
+            description: `<div class="d-block color-fg-default comment-body markdown-body js-comment-body">
         <p dir="auto">🔥 <a href="https://twitter.com/search?q=%24CHAX&amp;src=cashtag_click" rel="nofollow">$CHAX</a> Burn Update: The flame is rising!</p>
 <p dir="auto">📅 Latest snapshot: Jan 22 at 00:00:00 UTC</p>
 <p dir="auto">🚀 Team efforts: 1 team, 47 fuel additions, 9 new addresses!</p>
 <p dir="auto">🔥 Total burned: 223,469 <a href="https://twitter.com/search?q=%24CHAX&amp;src=cashtag_click" rel="nofollow">$CHAX</a></p>
 <p dir="auto">🌟 Hats off to <a href="https://twitter.com/hashtag/Grok?src=hashtag_click" rel="nofollow">#Grok</a> Bear: 0x99Abd79EC0350E308860dfBd88C59e3D9B4e84ae for initiating this burn!<br>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/sudaoxyz/FlappyVault/assets/133337545/3afc6a39-ee55-4ff6-b618-77283b7e4788"><img src="https://github.com/sudaoxyz/FlappyVault/assets/133337545/3afc6a39-ee55-4ff6-b618-77283b7e4788" alt="image" style="max-width: 100%;"></a></p>
-    </td>`,
+    </div>`,
             author: "Boternet",
             homepage: "https://www.youhou8.com/scripts/max/%E7%BD%91%E7%9B%98%E8%87%AA%E5%8A%A8%E5%A1%AB%E5%86%99%E5%AF%86%E7%A0%81%E3%80%90%E5%A8%81%E5%8A%9B%E5%8A%A0%E5%BC%BA%E7%89%88%E3%80%91",
             license: "MIT",
