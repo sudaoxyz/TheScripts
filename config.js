@@ -59,7 +59,7 @@
             license: "MIT",
             version: "0.1.0",
             twitter: "https://twitter.com/boternet_xyz",
-            url: "https://cdn.jsdelivr.net/gh/sudaoxyz/TheScripts/chaxburn.js"
+            url: "https://cdn.jsdelivr.net/gh/sudaoxyz/TheScripts/mexcAutoBuy.js"
         }
     ]
 }
