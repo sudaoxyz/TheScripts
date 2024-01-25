@@ -11,194 +11,194 @@
     "follows": [],
     "bots": [
         {
-            "name": "老白（坚持每日分享✊）",
+            "name": "老白（坚持每日分享✊）1",
             "description": "不要花钱买昂贵的PC软件\n这10个网站可以替代你的付费PC软件，而且是免费的",
             "author": "Boternet",
             "homepage": "https://www.youhou8.com/scripts/max/%E7%BD%91%E7%9B%98%E8%87%AA%E5%8A%A8%E5%A1%AB%E5%86%99%E5%AF%86%E7%A0%81%E3%80%90%E5%A8%81%E5%8A%9B%E5%8A%A0%E5%BC%BA%E7%89%88%E3%80%91",
             "license": "MIT",
             "version": "0.1.0",
             "twitter": "https://twitter.com/boternet_xyz",
-            "url": "http://localhost:5175/scripts.js"
+            "url": "https://cdn.jsdelivr.net/gh/sudaoxyz/TheScripts/testScripts.js"
         },
         {
-            "name": "老白（坚持每日分享✊）",
+            "name": "老白（坚持每日分享✊）2",
             "description": "智能融合网盘密码到网址中，打开网盘链接时不再需要手动复制密码，并自动提交密码，一路畅通无阻。同时记录网盘信息，当你再次打开该分享文件时，不再需要去找提取码，同时可追溯网盘地址的来源。",
             "author": "Boternet",
             "homepage": "https://www.youhou8.com/scripts/max/%E7%BD%91%E7%9B%98%E8%87%AA%E5%8A%A8%E5%A1%AB%E5%86%99%E5%AF%86%E7%A0%81%E3%80%90%E5%A8%81%E5%8A%9B%E5%8A%A0%E5%BC%BA%E7%89%88%E3%80%91",
             "license": "MIT",
             "version": "0.1.0",
             "twitter": "https://twitter.com/boternet_xyz",
-            "url": "http://localhost:5175/scripts.js"
+            "url": "https://cdn.jsdelivr.net/gh/sudaoxyz/TheScripts/testScripts.js"
         },
         {
-            "name": "网盘自动填写密码【威力加强版】",
+            "name": "网盘自动填写密码【威力加强版】3",
             "description": "智能融合网盘密码到网址中，打开网盘链接时不再需要手动复制密码，并自动提交密码，一路畅通无阻。同时记录网盘信息，当你再次打开该分享文件时，不再需要去找提取码，同时可追溯网盘地址的来源。",
             "author": "Boternet",
             "homepage": "https://www.youhou8.com/scripts/max/%E7%BD%91%E7%9B%98%E8%87%AA%E5%8A%A8%E5%A1%AB%E5%86%99%E5%AF%86%E7%A0%81%E3%80%90%E5%A8%81%E5%8A%9B%E5%8A%A0%E5%BC%BA%E7%89%88%E3%80%91",
             "license": "MIT",
             "version": "0.1.0",
             "twitter": "https://twitter.com/boternet_xyz",
-            "url": "http://localhost:5175/scripts.js"
+            "url": "https://cdn.jsdelivr.net/gh/sudaoxyz/TheScripts/testScripts.js"
         },
         {
-            "name": "网盘自动填写密码【威力加强版】",
+            "name": "网盘自动填写密码【威力加强版】4",
             "description": "智能融合网盘密码到网址中，打开网盘链接时不再需要手动复制密码，并自动提交密码，一路畅通无阻。同时记录网盘信息，当你再次打开该分享文件时，不再需要去找提取码，同时可追溯网盘地址的来源。",
             "author": "Boternet",
             "homepage": "https://www.youhou8.com/scripts/max/%E7%BD%91%E7%9B%98%E8%87%AA%E5%8A%A8%E5%A1%AB%E5%86%99%E5%AF%86%E7%A0%81%E3%80%90%E5%A8%81%E5%8A%9B%E5%8A%A0%E5%BC%BA%E7%89%88%E3%80%91",
             "license": "MIT",
             "version": "0.1.0",
             "twitter": "https://twitter.com/boternet_xyz",
-            "url": "http://localhost:5175/scripts.js"
+            "url": "https://cdn.jsdelivr.net/gh/sudaoxyz/TheScripts/testScripts.js"
         },
         {
-            "name": "网盘自动填写密码【威力加强版】",
+            "name": "网盘自动填写密码【威力加强版】5",
             "description": "智能融合网盘密码到网址中，打开网盘链接时不再需要手动复制密码，并自动提交密码，一路畅通无阻。同时记录网盘信息，当你再次打开该分享文件时，不再需要去找提取码，同时可追溯网盘地址的来源。",
             "author": "Boternet",
             "homepage": "https://www.youhou8.com/scripts/max/%E7%BD%91%E7%9B%98%E8%87%AA%E5%8A%A8%E5%A1%AB%E5%86%99%E5%AF%86%E7%A0%81%E3%80%90%E5%A8%81%E5%8A%9B%E5%8A%A0%E5%BC%BA%E7%89%88%E3%80%91",
             "license": "MIT",
             "version": "0.1.0",
             "twitter": "https://twitter.com/boternet_xyz",
-            "url": "http://localhost:5175/scripts.js"
+            "url": "https://cdn.jsdelivr.net/gh/sudaoxyz/TheScripts/testScripts.js"
         },
         {
-            "name": "网盘自动填写密码【威力加强版】",
+            "name": "网盘自动填写密码【威力加强版】6",
             "description": "智能融合网盘密码到网址中，打开网盘链接时不再需要手动复制密码，并自动提交密码，一路畅通无阻。同时记录网盘信息，当你再次打开该分享文件时，不再需要去找提取码，同时可追溯网盘地址的来源。",
             "author": "Boternet",
             "homepage": "https://www.youhou8.com/scripts/max/%E7%BD%91%E7%9B%98%E8%87%AA%E5%8A%A8%E5%A1%AB%E5%86%99%E5%AF%86%E7%A0%81%E3%80%90%E5%A8%81%E5%8A%9B%E5%8A%A0%E5%BC%BA%E7%89%88%E3%80%91",
             "license": "MIT",
             "version": "0.1.0",
             "twitter": "https://twitter.com/boternet_xyz",
-            "url": "http://localhost:5175/scripts.js"
+            "url": "https://cdn.jsdelivr.net/gh/sudaoxyz/TheScripts/testScripts.js"
         },
         {
-            "name": "网盘自动填写密码【威力加强版】",
+            "name": "网盘自动填写密码【威力加强版】7",
             "description": "智能融合网盘密码到网址中，打开网盘链接时不再需要手动复制密码，并自动提交密码，一路畅通无阻。同时记录网盘信息，当你再次打开该分享文件时，不再需要去找提取码，同时可追溯网盘地址的来源。",
             "author": "Boternet",
             "homepage": "https://www.youhou8.com/scripts/max/%E7%BD%91%E7%9B%98%E8%87%AA%E5%8A%A8%E5%A1%AB%E5%86%99%E5%AF%86%E7%A0%81%E3%80%90%E5%A8%81%E5%8A%9B%E5%8A%A0%E5%BC%BA%E7%89%88%E3%80%91",
             "license": "MIT",
             "version": "0.1.0",
             "twitter": "https://twitter.com/boternet_xyz",
-            "url": "http://localhost:5175/scripts.js"
+            "url": "https://cdn.jsdelivr.net/gh/sudaoxyz/TheScripts/testScripts.js"
         },
         {
-            "name": "网盘自动填写密码【威力加强版】",
+            "name": "网盘自动填写密码【威力加强版】8",
             "description": "智能融合网盘密码到网址中，打开网盘链接时不再需要手动复制密码，并自动提交密码，一路畅通无阻。同时记录网盘信息，当你再次打开该分享文件时，不再需要去找提取码，同时可追溯网盘地址的来源。",
             "author": "Boternet",
             "homepage": "https://www.youhou8.com/scripts/max/%E7%BD%91%E7%9B%98%E8%87%AA%E5%8A%A8%E5%A1%AB%E5%86%99%E5%AF%86%E7%A0%81%E3%80%90%E5%A8%81%E5%8A%9B%E5%8A%A0%E5%BC%BA%E7%89%88%E3%80%91",
             "license": "MIT",
             "version": "0.1.0",
             "twitter": "https://twitter.com/boternet_xyz",
-            "url": "http://localhost:5175/scripts.js"
+            "url": "https://cdn.jsdelivr.net/gh/sudaoxyz/TheScripts/testScripts.js"
         },
         {
-            "name": "网盘自动填写密码【威力加强版】",
+            "name": "网盘自动填写密码【威力加强版】9",
             "description": "智能融合网盘密码到网址中，打开网盘链接时不再需要手动复制密码，并自动提交密码，一路畅通无阻。同时记录网盘信息，当你再次打开该分享文件时，不再需要去找提取码，同时可追溯网盘地址的来源。",
             "author": "Boternet",
             "homepage": "https://www.youhou8.com/scripts/max/%E7%BD%91%E7%9B%98%E8%87%AA%E5%8A%A8%E5%A1%AB%E5%86%99%E5%AF%86%E7%A0%81%E3%80%90%E5%A8%81%E5%8A%9B%E5%8A%A0%E5%BC%BA%E7%89%88%E3%80%91",
             "license": "MIT",
             "version": "0.1.0",
             "twitter": "https://twitter.com/boternet_xyz",
-            "url": "http://localhost:5175/scripts.js"
+            "url": "https://cdn.jsdelivr.net/gh/sudaoxyz/TheScripts/testScripts.js"
         },
         {
-            "name": "网盘自动填写密码【威力加强版】",
+            "name": "网盘自动填写密码【威力加强版】10",
             "description": "智能融合网盘密码到网址中，打开网盘链接时不再需要手动复制密码，并自动提交密码，一路畅通无阻。同时记录网盘信息，当你再次打开该分享文件时，不再需要去找提取码，同时可追溯网盘地址的来源。",
             "author": "Boternet",
             "homepage": "https://www.youhou8.com/scripts/max/%E7%BD%91%E7%9B%98%E8%87%AA%E5%8A%A8%E5%A1%AB%E5%86%99%E5%AF%86%E7%A0%81%E3%80%90%E5%A8%81%E5%8A%9B%E5%8A%A0%E5%BC%BA%E7%89%88%E3%80%91",
             "license": "MIT",
             "version": "0.1.0",
             "twitter": "https://twitter.com/boternet_xyz",
-            "url": "http://localhost:5175/scripts.js"
+            "url": "https://cdn.jsdelivr.net/gh/sudaoxyz/TheScripts/testScripts.js"
         },
         {
-            "name": "网盘自动填写密码【威力加强版】",
+            "name": "网盘自动填写密码【威力加强版】11",
             "description": "智能融合网盘密码到网址中，打开网盘链接时不再需要手动复制密码，并自动提交密码，一路畅通无阻。同时记录网盘信息，当你再次打开该分享文件时，不再需要去找提取码，同时可追溯网盘地址的来源。",
             "author": "Boternet",
             "homepage": "https://www.youhou8.com/scripts/max/%E7%BD%91%E7%9B%98%E8%87%AA%E5%8A%A8%E5%A1%AB%E5%86%99%E5%AF%86%E7%A0%81%E3%80%90%E5%A8%81%E5%8A%9B%E5%8A%A0%E5%BC%BA%E7%89%88%E3%80%91",
             "license": "MIT",
             "version": "0.1.0",
             "twitter": "https://twitter.com/boternet_xyz",
-            "url": "http://localhost:5175/scripts.js"
+            "url": "https://cdn.jsdelivr.net/gh/sudaoxyz/TheScripts/testScripts.js"
         },
         {
-            "name": "网盘自动填写密码【威力加强版】",
+            "name": "网盘自动填写密码【威力加强版】12",
             "description": "智能融合网盘密码到网址中，打开网盘链接时不再需要手动复制密码，并自动提交密码，一路畅通无阻。同时记录网盘信息，当你再次打开该分享文件时，不再需要去找提取码，同时可追溯网盘地址的来源。",
             "author": "Boternet",
             "homepage": "https://www.youhou8.com/scripts/max/%E7%BD%91%E7%9B%98%E8%87%AA%E5%8A%A8%E5%A1%AB%E5%86%99%E5%AF%86%E7%A0%81%E3%80%90%E5%A8%81%E5%8A%9B%E5%8A%A0%E5%BC%BA%E7%89%88%E3%80%91",
             "license": "MIT",
             "version": "0.1.0",
             "twitter": "https://twitter.com/boternet_xyz",
-            "url": "http://localhost:5175/scripts.js"
+            "url": "https://cdn.jsdelivr.net/gh/sudaoxyz/TheScripts/testScripts.js"
         },
         {
-            "name": "网盘自动填写密码【威力加强版】",
+            "name": "网盘自动填写密码【威力加强版】13",
             "description": "智能融合网盘密码到网址中，打开网盘链接时不再需要手动复制密码，并自动提交密码，一路畅通无阻。同时记录网盘信息，当你再次打开该分享文件时，不再需要去找提取码，同时可追溯网盘地址的来源。",
             "author": "Boternet",
             "homepage": "https://www.youhou8.com/scripts/max/%E7%BD%91%E7%9B%98%E8%87%AA%E5%8A%A8%E5%A1%AB%E5%86%99%E5%AF%86%E7%A0%81%E3%80%90%E5%A8%81%E5%8A%9B%E5%8A%A0%E5%BC%BA%E7%89%88%E3%80%91",
             "license": "MIT",
             "version": "0.1.0",
             "twitter": "https://twitter.com/boternet_xyz",
-            "url": "http://localhost:5175/scripts.js"
+            "url": "https://cdn.jsdelivr.net/gh/sudaoxyz/TheScripts/testScripts.js"
         },
         {
-            "name": "网盘自动填写密码【威力加强版】",
+            "name": "网盘自动填写密码【威力加强版】14",
             "description": "智能融合网盘密码到网址中，打开网盘链接时不再需要手动复制密码，并自动提交密码，一路畅通无阻。同时记录网盘信息，当你再次打开该分享文件时，不再需要去找提取码，同时可追溯网盘地址的来源。",
             "author": "Boternet",
             "homepage": "https://www.youhou8.com/scripts/max/%E7%BD%91%E7%9B%98%E8%87%AA%E5%8A%A8%E5%A1%AB%E5%86%99%E5%AF%86%E7%A0%81%E3%80%90%E5%A8%81%E5%8A%9B%E5%8A%A0%E5%BC%BA%E7%89%88%E3%80%91",
             "license": "MIT",
             "version": "0.1.0",
             "twitter": "https://twitter.com/boternet_xyz",
-            "url": "http://localhost:5175/scripts.js"
+            "url": "https://cdn.jsdelivr.net/gh/sudaoxyz/TheScripts/testScripts.js"
         },
         {
-            "name": "网盘自动填写密码【威力加强版】",
+            "name": "网盘自动填写密码【威力加强版】15",
             "description": "智能融合网盘密码到网址中，打开网盘链接时不再需要手动复制密码，并自动提交密码，一路畅通无阻。同时记录网盘信息，当你再次打开该分享文件时，不再需要去找提取码，同时可追溯网盘地址的来源。",
             "author": "Boternet",
             "homepage": "https://www.youhou8.com/scripts/max/%E7%BD%91%E7%9B%98%E8%87%AA%E5%8A%A8%E5%A1%AB%E5%86%99%E5%AF%86%E7%A0%81%E3%80%90%E5%A8%81%E5%8A%9B%E5%8A%A0%E5%BC%BA%E7%89%88%E3%80%91",
             "license": "MIT",
             "version": "0.1.0",
             "twitter": "https://twitter.com/boternet_xyz",
-            "url": "http://localhost:5175/scripts.js"
+            "url": "https://cdn.jsdelivr.net/gh/sudaoxyz/TheScripts/testScripts.js"
         },
         {
-            "name": "网盘自动填写密码【威力加强版】",
+            "name": "网盘自动填写密码【威力加强版】16",
             "description": "智能融合网盘密码到网址中，打开网盘链接时不再需要手动复制密码，并自动提交密码，一路畅通无阻。同时记录网盘信息，当你再次打开该分享文件时，不再需要去找提取码，同时可追溯网盘地址的来源。",
             "author": "Boternet",
             "homepage": "https://www.youhou8.com/scripts/max/%E7%BD%91%E7%9B%98%E8%87%AA%E5%8A%A8%E5%A1%AB%E5%86%99%E5%AF%86%E7%A0%81%E3%80%90%E5%A8%81%E5%8A%9B%E5%8A%A0%E5%BC%BA%E7%89%88%E3%80%91",
             "license": "MIT",
             "version": "0.1.0",
             "twitter": "https://twitter.com/boternet_xyz",
-            "url": "http://localhost:5175/scripts.js"
+            "url": "https://cdn.jsdelivr.net/gh/sudaoxyz/TheScripts/testScripts.js"
         },
         {
-            "name": "网盘自动填写密码【威力加强版】",
+            "name": "网盘自动填写密码【威力加强版】17",
             "description": "智能融合网盘密码到网址中，打开网盘链接时不再需要手动复制密码，并自动提交密码，一路畅通无阻。同时记录网盘信息，当你再次打开该分享文件时，不再需要去找提取码，同时可追溯网盘地址的来源。",
             "author": "Boternet",
             "homepage": "https://www.youhou8.com/scripts/max/%E7%BD%91%E7%9B%98%E8%87%AA%E5%8A%A8%E5%A1%AB%E5%86%99%E5%AF%86%E7%A0%81%E3%80%90%E5%A8%81%E5%8A%9B%E5%8A%A0%E5%BC%BA%E7%89%88%E3%80%91",
             "license": "MIT",
             "version": "0.1.0",
             "twitter": "https://twitter.com/boternet_xyz",
-            "url": "http://localhost:5175/scripts.js"
+            "url": "https://cdn.jsdelivr.net/gh/sudaoxyz/TheScripts/testScripts.js"
         },
         {
-            "name": "网盘自动填写密码【威力加强版】",
+            "name": "网盘自动填写密码【威力加强版】18",
             "description": "智能融合网盘密码到网址中，打开网盘链接时不再需要手动复制密码，并自动提交密码，一路畅通无阻。同时记录网盘信息，当你再次打开该分享文件时，不再需要去找提取码，同时可追溯网盘地址的来源。",
             "author": "Boternet",
             "homepage": "https://www.youhou8.com/scripts/max/%E7%BD%91%E7%9B%98%E8%87%AA%E5%8A%A8%E5%A1%AB%E5%86%99%E5%AF%86%E7%A0%81%E3%80%90%E5%A8%81%E5%8A%9B%E5%8A%A0%E5%BC%BA%E7%89%88%E3%80%91",
             "license": "MIT",
             "version": "0.1.0",
             "twitter": "https://twitter.com/boternet_xyz",
-            "url": "http://localhost:5175/scripts.js"
+            "url": "https://cdn.jsdelivr.net/gh/sudaoxyz/TheScripts/testScripts.js"
         },
         {
-            "name": "网盘自动填写密码【威力加强版】",
+            "name": "网盘自动填写密码【威力加强版】19",
             "description": "智能融合网盘密码到网址中，打开网盘链接时不再需要手动复制密码，并自动提交密码，一路畅通无阻。同时记录网盘信息，当你再次打开该分享文件时，不再需要去找提取码，同时可追溯网盘地址的来源。",
             "author": "Boternet",
             "homepage": "https://www.youhou8.com/scripts/max/%E7%BD%91%E7%9B%98%E8%87%AA%E5%8A%A8%E5%A1%AB%E5%86%99%E5%AF%86%E7%A0%81%E3%80%90%E5%A8%81%E5%8A%9B%E5%8A%A0%E5%BC%BA%E7%89%88%E3%80%91",
             "license": "MIT",
             "version": "0.1.0",
             "twitter": "https://twitter.com/boternet_xyz",
-            "url": "http://localhost:5175/scripts.js"
+            "url": "https://cdn.jsdelivr.net/gh/sudaoxyz/TheScripts/testScripts.js"
         }
     ]
 }
